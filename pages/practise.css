@@ -18,6 +18,7 @@
         .title {
             color: white;
             font-family: "Montserrat";
+            font-size: 30px;
         }
 
         #header {
@@ -194,4 +195,5 @@
         .title {
             font-size: 30px;
         }
+
     }
